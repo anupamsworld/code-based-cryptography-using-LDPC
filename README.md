@@ -1,3 +1,3 @@
 # code-based-cryptography-using-LDPC
 
-Look inside ./LDPC_V2.1.0/example_python/
+Dependent on LDPC library https://pypi.org/project/ldpc/
