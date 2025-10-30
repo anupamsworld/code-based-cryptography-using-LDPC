@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="k-NbTbkaRDDMrZovh-FK">
+    <mxGraphModel dx="802" dy="-138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="190" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oVduiVQcoNZQnrRohAAR-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="760" width="760" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oVduiVQcoNZQnrRohAAR-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.053;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.068;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="oVduiVQcoNZQnrRohAAR-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="91.28000000000003" y="819.5799999999999" as="sourcePoint" />
+            <mxPoint x="91.28000000000003" y="760.36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oVduiVQcoNZQnrRohAAR-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="55.75" y="716.25" width="20" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oVduiVQcoNZQnrRohAAR-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="360.12" y="463.12" width="20" height="553.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oVduiVQcoNZQnrRohAAR-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="715.82" y="667.2" width="20" height="145.62" as="geometry" />
+        </mxCell>
+        <mxCell id="oVduiVQcoNZQnrRohAAR-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2 bits&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="44.5" y="775" width="42.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oVduiVQcoNZQnrRohAAR-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;256 bits&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="699.16" y="775" width="53.32" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oVduiVQcoNZQnrRohAAR-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;6896 bits&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="325.91999999999996" y="775" width="67.16" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oVduiVQcoNZQnrRohAAR-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Binary of Hash of actual message&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="650" y="695" width="148.73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oVduiVQcoNZQnrRohAAR-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Binary of actual message/data of sender&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="233.25" y="690" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oVduiVQcoNZQnrRohAAR-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Salt for encoder&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="42" y="690" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oVduiVQcoNZQnrRohAAR-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="411" y="463" width="20" height="758" as="geometry" />
+        </mxCell>
+        <mxCell id="oVduiVQcoNZQnrRohAAR-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;7154 Information bits&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="347.09" y="857" width="145.82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8UGHUAw8keEkTZyclIuo-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.053;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="820" as="sourcePoint" />
+            <mxPoint x="650" y="760.36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
